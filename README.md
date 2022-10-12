@@ -41,15 +41,15 @@ JSON is the best tool for the sharing data of any size even audio, video etc. Th
 
 ![](https://github.com/Pulla-prakash/JsonPowerDB/blob/main/Assets/Screenshot%20(97).png)
 
-##### This is an image of JsonPowerDB Home Page
+##### This image shows to how to select the DataBase
 
 ![](https://github.com/Pulla-prakash/JsonPowerDB/blob/main/Assets/Screenshot%20(99).png)
 
-##### This is an image of JsonPowerDB Home Page
+## This image shows to how to select the Relation of DataBase
 
 ![](https://github.com/Pulla-prakash/JsonPowerDB/blob/main/Assets/Screenshot%20(100).png)
 
-## This is an image of Employee Date In Empl-Rel
+## This is an image of Employee Data In EMP-REL
 
 ![](https://github.com/Pulla-prakash/JsonPowerDB/blob/main/Assets/Screenshot%20(101).png)
 

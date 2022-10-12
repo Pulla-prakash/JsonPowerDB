@@ -26,4 +26,4 @@ JSON is the best tool for the sharing data of any size even audio, video etc. Th
 # Screenshots:
 
 ##### This is an image of JsonPowerDB Home Page
-(https://github.com/Pulla-prakash/JsonPowerDB/blob/main/Assets/DashBoard.png)
+![](https://github.com/Pulla-prakash/JsonPowerDB/blob/main/Assets/DashBoard.png)

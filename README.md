@@ -10,7 +10,7 @@ https://login2explore.com/jpdb/docs.html
    
 # Benefits of using JsonPowerDB   
 
-JSON is Faster:
+#0d1117 JSON is Faster:
 JSON syntax is very easy to use. We have to use only as a syntax which provides us an easy parsing of the data and faster execution of the data. Since its syntax is very small and light weighted that’s the reason that it executes the response in the faster way.
 
 Schema Support:
@@ -21,3 +21,5 @@ On the server side parsing is the important part that developers want if the par
 
 Tool for sharing data:
 JSON is the best tool for the sharing data of any size even audio, video etc. This is because JSON stores the data in the arrays so data transfer makes easier. For this reason, JSON is a superior file format for web APIs and for web development.
+
+# Screenshots:

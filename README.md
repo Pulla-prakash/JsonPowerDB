@@ -10,7 +10,7 @@ https://login2explore.com/jpdb/docs.html
    
 # Benefits of using JsonPowerDB   
 
-#0d1117 JSON is Faster:
+'#0d1117' JSON is Faster:
 JSON syntax is very easy to use. We have to use only as a syntax which provides us an easy parsing of the data and faster execution of the data. Since its syntax is very small and light weighted that’s the reason that it executes the response in the faster way.
 
 Schema Support:

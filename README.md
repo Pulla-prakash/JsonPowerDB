@@ -9,3 +9,6 @@ https://login2explore.com/jpdb/docs.html
    JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
    
 # Benefits of using JsonPowerDB   
+
+--> JSON is Faster:
+JSON syntax is very easy to use. We have to use only -> as a syntax which provides us an easy parsing of the data and faster execution of the data. Since its syntax is very small and light weighted that’s the reason that it executes the response in the faster way.
